@@ -20,7 +20,7 @@
  It's a mod made for Super Mario 64 PC Port. It remodels the whole game with DS models from Super Mario 64 DS! (**CURRENTLY WORK IN PROGRESS!!!**)
 
 ## Instructions:
-Firstly, you have to have the Render96 repo already cloned... (You can clone it from here: `git clone https://github.com/Render96/Render96ex)
+Firstly, you have to have the Render96 repo already cloned... (You can clone it from here: `git clone https://github.com/Render96/Render96ex` )
 
 Or you can use Builder2 for git cloning it. (Download link for Builder2: https://sm64pc.info/sm64pcbuilder2/)
 
