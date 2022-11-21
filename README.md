@@ -24,7 +24,7 @@ Firstly, you have to have the Render96 repo already cloned... (You can clone it 
 
 Or you can use Builder2 for git cloning it. (Download link for Builder2: https://sm64pc.info/sm64pcbuilder2/)
 
-Then you should `git clone https://github.com/ExcellentGamer/Super-Mario-64-DS-Remastered-Dev`, is needed for installing the mod.
+Then you should `git clone https://github.com/ExcellentGamer/Super-Mario-64-DS-Remastered-Dev, is needed for installing the mod.
 
 After you've done git cloning it, all you have to do is to copy everything from **Beta 3.0** folder and paste them into the subfolder of Render96.
 
